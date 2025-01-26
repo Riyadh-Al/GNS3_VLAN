@@ -1,7 +1,7 @@
 # Layer 3 Switching and Inter-VLAN Routing with Cisco 3600 Router
 
 <div align="center">
-  [img]https://i.imgur.com/Yd7jZXh.png[/img]
+  <img src="https://i.imgur.com/your-image-id.png" alt="Network Topology" width="600"> 
 </div>
 
 ## Project Overview
