@@ -1,4 +1,4 @@
-# Layer 3 Switching and Inter-VLAN Routing
+**# Layer 3 Switching and Inter-VLAN Routing
 
 ## Project Overview
 
@@ -124,3 +124,4 @@ exit
 5. Test connectivity using `ping` and verify with packet captures.
 
 
+**
