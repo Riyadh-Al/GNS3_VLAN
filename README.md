@@ -1,4 +1,4 @@
-## Layer 3 Switching and Inter-VLAN Routing
+# Layer 3 Switching and Inter-VLAN Routing
 
 <p align="center">
     <a href="https://youtu.be/ZKg1Husvaqg"> 
