@@ -1,4 +1,13 @@
-**# Layer 3 Switching and Inter-VLAN Routing
+## Layer 3 Switching and Inter-VLAN Routing
+
+<p align="center">
+    <a href="https://youtu.be/ZKg1Husvaqg"> 
+        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="50">
+    </a>
+    <br>
+    <strong>Click Above For YouTube Demonstration</strong>
+</p>
+
 
 ## Project Overview
 
@@ -84,9 +93,18 @@ exit
 ### Ping Test Results
 
 - **PC1 (VLAN 10) to PC2 (VLAN 20):** Success
+[img]https://i.imgur.com/mKa2jsu.png 
 - **PC2 (VLAN 20) to PC3 (VLAN 20):** Success
 
-![Ping Test](path_to_your_ping_test_image.png)
+PC1:
+
+  <img src="https://i.imgur.com/mKa2jsu.png" width="600">
+
+  
+PC2: 
+
+  <img src="https://i.imgur.com/5EHavhp.png" width="600">
+  
 
 *Figure: Ping results confirming inter-VLAN connectivity.*
 
@@ -106,12 +124,6 @@ exit
 - Implement dynamic routing protocols like OSPF or EIGRP.
 - Enhance security using Access Control Lists (ACLs).
 - Automate configuration with Python or shell scripts.
-
----
-
-## YouTube Video
-
-[Watch the Project Walkthrough](https://your-youtube-video-link-here)
 
 ---
 
